@@ -149,3 +149,39 @@ body {
 hr {
   border-color: $hr-color;
 }
+
+// ========== RESPONSIVE ==========
+
+// Tablet (768px gacha)
+@media (max-width: 768px) {
+  .main-container {
+    width: 18rem;        // 288px
+    padding: 1.25rem;   // 20px
+    gap: 1.25rem;
+  }
+
+  .nft-name {
+    font-size: 1.125rem; // 18px
+  }
+
+  .nft-info {
+    font-size: 1rem;     // 16px
+  }
+}
+
+// Mobile (375px gacha)
+@media (max-width: 375px) {
+  .main-container {
+    width: 16rem;        // 256px
+    padding: 1rem;      // 16px
+    gap: 1rem;
+  }
+
+  .nft-name {
+    font-size: 1rem;     // 16px
+  }
+
+  .nft-info {
+    font-size: 0.875rem; // 14px
+  }
+}
