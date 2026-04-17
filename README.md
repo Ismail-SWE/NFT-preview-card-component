@@ -175,4 +175,4 @@ In future projects, I want to focus on:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)# NFT-preview-card-component
+- Frontend Mentor - https://www.frontendmentor.io/profile/Ismail-SWE) #NFT-preview-card-component
